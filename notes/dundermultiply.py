@@ -1,4 +1,5 @@
 class NumString:
+    """ A look into how special methods work """
     def __init__(self, value):
         self.value = str(value)
 

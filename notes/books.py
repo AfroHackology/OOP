@@ -1,4 +1,5 @@
 class Book:
+    """ Sets parameters """
     def __init__(self, title, author):
         self.title = title
         self.author = author
@@ -7,6 +8,7 @@ class Book:
         return '{} by {}'.format(self.title, self.author)
 
 class Bookcase:
+    """ A look into how @classmethod works"""
     def __init__(self, books=None):
         self.books = books
 

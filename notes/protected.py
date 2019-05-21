@@ -1,5 +1,5 @@
-#this is a look into secure coding
 class Protected:
+    """ A small snippit of secure coding """
     __name = "Security"
 
     def __method(self):

@@ -1,4 +1,6 @@
 class Circle:
+    """ A look into how properties work see
+        python docs"""
     def __init__(self, diameter):
         self.diameter = diameter
 
