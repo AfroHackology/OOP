@@ -1,1 +1,4 @@
-# This is a practice file
+import random
+class Senet:
+
+    
